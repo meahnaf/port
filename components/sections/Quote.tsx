@@ -36,7 +36,7 @@ export default function Quote() {
         >
           <h2 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight max-w-4xl mx-auto">
             <span className="gradient-text text-shadow-glow">
-              "Building AI systems that are scalable, intelligent, and production-ready."
+              &ldquo;Building AI systems that are scalable, intelligent, and production-ready.&rdquo;
             </span>
           </h2>
         </motion.div>

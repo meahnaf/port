@@ -41,10 +41,10 @@ export default function Contact() {
           className="max-w-3xl mx-auto text-center"
         >
           <h2 className="text-4xl md:text-5xl font-bold mb-6">
-            Let's Create Something Amazing.
+            Let&apos;s Create Something Amazing.
           </h2>
           <p className="text-lg text-text-gray mb-12 leading-relaxed">
-            Open to AI Engineer, GenAI, and Backend AI opportunities. Let's discuss how we can build intelligent systems together.
+            Open to AI Engineer, GenAI, and Backend AI opportunities. Let&apos;s discuss how we can build intelligent systems together.
           </p>
 
           <div className="space-y-4">
